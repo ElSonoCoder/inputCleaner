@@ -1,6 +1,5 @@
 import "./App.css";
-import React from "react";
-import ExtractNumbersInput from "./components/ExtractNumbersInput_Version2";
+import ExtractNumbersInput from "./components/ExtractNumbersInput";
 
 const App = () => {
 	return (
